@@ -1,0 +1,2 @@
+(this.webpackJsonptodoapp=this.webpackJsonptodoapp||[]).push([[0],[function(o,a,t){o.exports=t(1)},function(o,a){var t=document.querySelector("body");!function(o){var a=new Image;a.src="images/".concat(o+1,".jpg"),a.classList.add("bgImage"),t.prepend(a)}(Math.floor(11*Math.random()))}],[[0,1]]]);
+//# sourceMappingURL=main.f104c0a1.chunk.js.map
